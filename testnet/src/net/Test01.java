@@ -2,7 +2,11 @@ package net;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-
+/**\
+ *这是一个测试提交
+ * @author Administrator
+ *
+ */
 public class Test01 {
 
 	public static void main(String[] args) {
